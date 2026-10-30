@@ -1,0 +1,6 @@
+pyproject.toml
+fluxmatrix.egg-info/PKG-INFO
+fluxmatrix.egg-info/SOURCES.txt
+fluxmatrix.egg-info/dependency_links.txt
+fluxmatrix.egg-info/requires.txt
+fluxmatrix.egg-info/top_level.txt
