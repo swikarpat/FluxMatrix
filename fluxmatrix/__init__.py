@@ -6,3 +6,4 @@ semantic routing, and strict latency/TTFT tracking.
 """
 
 __version__ = "0.1.0"
+

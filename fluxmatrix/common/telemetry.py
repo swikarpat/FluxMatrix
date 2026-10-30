@@ -76,3 +76,4 @@ MCP_SECURITY_VIOLATIONS_TOTAL = Counter(
     "Total blocked or unauthorized MCP tool execution attempts",
     ["tool_name", "violation_type"],
 )
+

@@ -119,3 +119,4 @@ def setup_logging(
 def get_logger(name: Optional[str] = None) -> structlog.stdlib.BoundLogger:
     """Return a configured structured logger instance."""
     return structlog.get_logger(name or "fluxmatrix")
+

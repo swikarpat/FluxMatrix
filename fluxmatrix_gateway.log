@@ -1,0 +1,34 @@
+[2m2026-10-30T06:58:28.215606Z[0m [[32m[1minfo     [0m] [1mStarting FluxMatrix AI Inference Gateway[0m [[0m[1m[34mserver[0m][0m [36mengine_mode[0m=[35mmock[0m [36menvironment[0m=[35mdevelopment[0m [36mfast_tier[0m=[35mqwen-2.5-7b-instruct-awq[0m [36mheavy_tier[0m=[35mdeepseek-r1-70b-instruct[0m [36mhost[0m=[35m0.0.0.0[0m [36mport[0m=[35m8080[0m
+[2m2026-10-30T06:58:28.216460Z[0m [[32m[1minfo     [0m] [1mApplication startup complete. [0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:58:28.218598Z[0m [[32m[1minfo     [0m] [1mUvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:58:38.117879Z[0m [[32m[1minfo     [0m] [1mShutting down                 [0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:58:38.219844Z[0m [[32m[1minfo     [0m] [1mWaiting for application shutdown.[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:58:38.220140Z[0m [[32m[1minfo     [0m] [1mFluxMatrix Gateway shutting down cleanly[0m [[0m[1m[34mserver[0m][0m
+[2m2026-10-30T06:58:38.220604Z[0m [[32m[1minfo     [0m] [1mApplication shutdown complete.[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:58:38.220788Z[0m [[32m[1minfo     [0m] [1mFinished server process [81221][0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:58:46.438911Z[0m [[32m[1minfo     [0m] [1mStarting FluxMatrix AI Inference Gateway[0m [[0m[1m[34mserver[0m][0m [36mengine_mode[0m=[35mmock[0m [36menvironment[0m=[35mdevelopment[0m [36mfast_tier[0m=[35mqwen-2.5-7b-instruct-awq[0m [36mheavy_tier[0m=[35mdeepseek-r1-70b-instruct[0m [36mhost[0m=[35m0.0.0.0[0m [36mport[0m=[35m8080[0m
+[2m2026-10-30T06:58:46.439286Z[0m [[32m[1minfo     [0m] [1mApplication startup complete. [0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:58:46.440011Z[0m [[32m[1minfo     [0m] [1mUvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:58:55.329700Z[0m [[32m[1minfo     [0m] [1mShutting down                 [0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:58:55.431530Z[0m [[32m[1minfo     [0m] [1mWaiting for application shutdown.[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:58:55.431875Z[0m [[32m[1minfo     [0m] [1mFluxMatrix Gateway shutting down cleanly[0m [[0m[1m[34mserver[0m][0m
+[2m2026-10-30T06:58:55.432336Z[0m [[32m[1minfo     [0m] [1mApplication shutdown complete.[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:58:55.432513Z[0m [[32m[1minfo     [0m] [1mFinished server process [81369][0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:59:00.697572Z[0m [[32m[1minfo     [0m] [1mStarting FluxMatrix AI Inference Gateway[0m [[0m[1m[34mserver[0m][0m [36mengine_mode[0m=[35mmock[0m [36menvironment[0m=[35mdevelopment[0m [36mfast_tier[0m=[35mqwen-2.5-7b-instruct-awq[0m [36mheavy_tier[0m=[35mdeepseek-r1-70b-instruct[0m [36mhost[0m=[35m0.0.0.0[0m [36mport[0m=[35m8080[0m
+[2m2026-10-30T06:59:00.697944Z[0m [[32m[1minfo     [0m] [1mApplication startup complete. [0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:59:00.698641Z[0m [[32m[1minfo     [0m] [1mUvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:59:39.595952Z[0m [[32m[1minfo     [0m] [1mShutting down                 [0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:59:39.697873Z[0m [[32m[1minfo     [0m] [1mWaiting for application shutdown.[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:59:39.698202Z[0m [[32m[1minfo     [0m] [1mFluxMatrix Gateway shutting down cleanly[0m [[0m[1m[34mserver[0m][0m
+[2m2026-10-30T06:59:39.698646Z[0m [[32m[1minfo     [0m] [1mApplication shutdown complete.[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T06:59:39.698831Z[0m [[32m[1minfo     [0m] [1mFinished server process [81505][0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T07:00:25.886283Z[0m [[32m[1minfo     [0m] [1mStarting FluxMatrix AI Inference Gateway[0m [[0m[1m[34mserver[0m][0m [36mengine_mode[0m=[35mmock[0m [36menvironment[0m=[35mdevelopment[0m [36mfast_tier[0m=[35mqwen-2.5-7b-instruct-awq[0m [36mheavy_tier[0m=[35mdeepseek-r1-70b-instruct[0m [36mhost[0m=[35m0.0.0.0[0m [36mport[0m=[35m8080[0m
+[2m2026-10-30T07:00:25.886662Z[0m [[32m[1minfo     [0m] [1mApplication startup complete. [0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T07:00:25.887375Z[0m [[32m[1minfo     [0m] [1mUvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T07:01:50.736834Z[0m [[32m[1minfo     [0m] [1mRouting decision computed     [0m [[0m[1m[34mrouter[0m][0m [36mcomplexity_score[0m=[35m0.0[0m [36mreason[0m=[35m'Low complexity score (0.00 < 0.60); signals: simple_retrieval_or_summary'[0m [36mrequest_id[0m=[35mreq-0483cc9df110[0m [36mselected_model[0m=[35mqwen-2.5-7b-instruct-awq[0m [36mtier[0m=[35mfast_quantized[0m [36mtokens[0m=[35m25[0m [36mtrace_id[0m=[35mtrc-b25964274a7c4814[0m
+[2m2026-10-30T07:01:51.320587Z[0m [[32m[1minfo     [0m] [1mRouting decision computed     [0m [[0m[1m[34mrouter[0m][0m [36mcomplexity_score[0m=[35m0.45[0m [36mreason[0m=[35m'Low complexity score (0.45 < 0.60); signals: moderate_reasoning_signal'[0m [36mrequest_id[0m=[35mreq-3bbb7c08b0e1[0m [36mselected_model[0m=[35mqwen-2.5-7b-instruct-awq[0m [36mtier[0m=[35mfast_quantized[0m [36mtokens[0m=[35m56[0m [36mtrace_id[0m=[35mtrc-1af270c9e32b4435[0m
+[2m2026-10-30T10:32:07.358125Z[0m [[32m[1minfo     [0m] [1mShutting down                 [0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T10:32:07.460169Z[0m [[32m[1minfo     [0m] [1mWaiting for application shutdown.[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T10:32:07.460633Z[0m [[32m[1minfo     [0m] [1mFluxMatrix Gateway shutting down cleanly[0m [[0m[1m[34mserver[0m][0m
+[2m2026-10-30T10:32:07.461166Z[0m [[32m[1minfo     [0m] [1mApplication shutdown complete.[0m [[0m[1m[34muvicorn.error[0m][0m
+[2m2026-10-30T10:32:07.461388Z[0m [[32m[1minfo     [0m] [1mFinished server process [81850][0m [[0m[1m[34muvicorn.error[0m][0m
